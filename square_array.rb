@@ -4,3 +4,4 @@ def square_array(array)
   arrNew
   end
 end
+end
